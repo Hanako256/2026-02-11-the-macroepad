@@ -16,6 +16,7 @@ I don't even know how many times I redesigned this part...from just changing the
 
 ## Case
 <img width="937" height="1150" alt="Macroepad Case" src="https://github.com/user-attachments/assets/1b54f318-0a11-435d-9814-aeee57fc3f35" />
+
 Made in Onshape. As a result of the pcb redesigning, this case has also been redesigned and re-exported far too many times.
 
 
