@@ -32,5 +32,3 @@ The Macroepad uses KMK firmware. 4 of the 6 keys are directional inputs (like ar
 6x DSA Keycaps
 
 4x M3x16mm Screws
-
-4x M3x5x4mm Heatset Inserts
