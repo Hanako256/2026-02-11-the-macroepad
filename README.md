@@ -9,7 +9,7 @@ The Macroepad is a macropad with 6 keys, 3 poe drawings on the PCB, and very int
 
 ### PCB:
 <img width="1014" height="535" alt="image" src="https://github.com/user-attachments/assets/5020d59a-a1c5-4878-b282-4b179db07573" />
-I don't even know how many times I redesigned this part...from just changing the wiring to restarting from scratch, it must have gone through over 7 versions by now. I'm finally happy with what I have now.
+I don't even know how many times I redesigned this part...from just changing the wiring to restarting from scratch, it must have gone through over 7 versions by now, but I'm finally happy with this.
 
 2 of those poes will never see the light of day...oh well, sacrifices must be made.
 
