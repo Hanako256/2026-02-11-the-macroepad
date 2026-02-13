@@ -1,6 +1,6 @@
 # The Macroepad
 The Macroepad is a macropad with 6 keys, 3 poe drawings on the PCB, and very intentional spelling. It is my first ever hardware project.
-<img width="985" height="453" alt="image" src="https://github.com/user-attachments/assets/eb8179b8-a43d-4815-9f52-15c023bb2bb6" />
+<img width="1029" height="598" alt="case assembled" src="https://github.com/user-attachments/assets/fd44d410-cd4b-46c0-8f71-d92b40cec98d" />
 
 
 ## PCB + Schematic
@@ -15,7 +15,9 @@ I don't even know how many times I redesigned this part...from just changing the
 
 
 ## Case
-<img width="937" height="1150" alt="Macroepad Case" src="https://github.com/user-attachments/assets/1b54f318-0a11-435d-9814-aeee57fc3f35" />
+<img width="940" height="545" alt="case bottom" src="https://github.com/user-attachments/assets/7c405a03-3a53-400a-91da-2859385c7c2d" />
+<img width="815" height="421" alt="case top" src="https://github.com/user-attachments/assets/77acbdb1-9b36-469e-af19-16d7611e4026" />
+
 
 Made in Onshape. As a result of the pcb redesigning, this case has also been redesigned and re-exported far too many times.
 
