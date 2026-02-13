@@ -19,7 +19,7 @@ I don't even know how many times I redesigned this part...from just changing the
 <img width="815" height="421" alt="case top" src="https://github.com/user-attachments/assets/77acbdb1-9b36-469e-af19-16d7611e4026" />
 
 
-Made in Onshape. As a result of the pcb redesigning, this case has also been redesigned and re-exported far too many times. https://cad.onshape.com/documents/2e1ab0f3adffe5da9127a695/w/749a84079cf19a1d14ae1bdd/e/1d03814740b6b7ee83d894f7
+Made in Onshape. As a result of the pcb redesigning, this case has also been redesigned and re-exported far too many times. [Onshape document](https://cad.onshape.com/documents/2e1ab0f3adffe5da9127a695/w/749a84079cf19a1d14ae1bdd/)e/1d03814740b6b7ee83d894f7
 
 ## Firmware
 The Macroepad uses KMK firmware. 4 of the 6 keys are directional inputs (like arrow keys on a regular keyboard), the other 2 are for Right Click and Enter.
